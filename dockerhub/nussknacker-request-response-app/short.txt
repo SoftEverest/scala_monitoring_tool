@@ -1,0 +1,1 @@
+Prototype application used by Nussknacker designer to run scenarios in Request-Response mode
